@@ -1,16 +1,39 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**dmdeucalion/dmdeucalion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Analyst passionate about transforming raw data into actionable business insights. I enjoy solving analytical problems, building dashboards, exploring user behavior, and helping businesses make data-driven decisions.
 
-Here are some ideas to get you started:
+My background includes projects in e-commerce, telecommunications, marketing analytics, and sales performance analysis. I combine strong analytical thinking with a structured approach to problem-solving and effective communication with stakeholders.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+* SQL
+* ClickHouse
+* DataLens
+* Power BI
+* Apache Superset
+* Business Metrics & KPI Analysis
+* Database Optimization
+* AI-powered Analytics & Productivity Tools
+
+💡 Soft Skills
+
+* Analytical Thinking
+* Critical Thinking
+* Structured Problem Solving
+* Attention to Detail
+* Decision-Making Confidence
+* Stakeholder Communication
+* Result-Oriented Mindset
+
+🌍 Languages
+
+* English (B2)
+
+📫 Contacts
+
+* Telegram: [@dm_deucalion](https://t.me/dm_deucalion)
+* Email: [bronnikovadasha15@gmail.com](mailto:bronnikovadasha15@gmail.com)
+
+🚀 Status
+
+Open to Data Analyst / BI Analyst opportunities.
