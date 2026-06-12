@@ -1,39 +1,33 @@
-Hi there 👋
+Привет, я Бусыгина Даша 👋
 
-I’m a Data Analyst passionate about transforming raw data into actionable business insights. I enjoy solving analytical problems, building dashboards, exploring user behavior, and helping businesses make data-driven decisions.
+Аналитик данных | BI аналитик
 
-My background includes projects in e-commerce, telecommunications, marketing analytics, and sales performance analysis. I combine strong analytical thinking with a structured approach to problem-solving and effective communication with stakeholders.
+Помогаю превращать данные в понятные выводы и решения для бизнеса. Занимаюсь анализом данных, расчетом бизнес-метрик и разработкой дашбордов для мониторинга ключевых показателей. Мне нравится находить закономерности в данных, оптимизировать процессы и помогать командам принимать решения на основе фактов.
 
-🛠️ Tech Stack
+🛠️ Стек технологий
 
-* SQL
-* ClickHouse
-* DataLens
-* Power BI
-* Apache Superset
-* Business Metrics & KPI Analysis
-* Database Optimization
-* AI-powered Analytics & Productivity Tools
+Анализ данных: SQL, расчет бизнес-метрик, исследовательский анализ данных.
 
-💡 Soft Skills
+BI и визуализация: Yandex DataLens, Power BI, Apache Superset.
 
-* Analytical Thinking
-* Critical Thinking
-* Structured Problem Solving
-* Attention to Detail
-* Decision-Making Confidence
-* Stakeholder Communication
-* Result-Oriented Mindset
+СУБД: ClickHouse.
 
-🌍 Languages
+Дополнительно: оптимизация запросов и баз данных, использование AI-инструментов для аналитики и автоматизации рабочих процессов.
 
-* English (B2)
+💡 Ключевые навыки
 
-📫 Contacts
+Аналитическое мышление • Критическое мышление • Системный подход • Внимание к деталям • Самостоятельность • Коммуникация с заказчиками • Ориентация на результат
+
+🌍 Языки
+
+Английский — B2
+
+🚀 Статус
+
+Открыта к предложениям на позиции Data Analyst, BI Analyst и Business Analyst.
+
+📫 Контакты
 
 * Telegram: [@dm_deucalion](https://t.me/dm_deucalion)
 * Email: [bronnikovadasha15@gmail.com](mailto:bronnikovadasha15@gmail.com)
 
-🚀 Status
-
-Open to Data Analyst / BI Analyst opportunities.
